@@ -1,0 +1,25 @@
+.home-container {
+    height: 100vh;
+    background-image: url('/public/images/agribot-background.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content {
+    text-align: center;
+    color: white;
+  }
+  
+  .content h1 {
+    font-size:120px;
+    margin-bottom: 20px;
+  }
+  
+  .content p {
+    font-size: 40px;
+    margin-bottom: 40px;
+  }
+  

@@ -1,0 +1,18 @@
+/* Button2.css */
+
+.button2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none; /* Remove button border */
+    border-radius: 20px; /* Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    text-decoration: none; /* Remove default link underline */
+    transition: background-color 0.5s ease; /* Smooth transition for background color */
+  }
+  
+  .button2:hover {
+    background-color: #28a745; /* Green background color on hover */
+  }
+  
